@@ -1,2 +1,10 @@
 # YellowCards
-An app for managing daily tasks, allowing you to create a task list, mark tasks as completed and track progress.
+
+**YellowCards** is a simple C++ application for managing notes. Users can add, view, and delete notes, with all data stored in a plain text file.
+
+## Features
+
+- ✅ Add new notes
+- 📖 View existing notes
+- ❌ Delete notes
+- 💾 Data persistence using a text file
